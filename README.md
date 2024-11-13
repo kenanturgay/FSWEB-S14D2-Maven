@@ -1,14 +1,7 @@
 # Java Composition
 
-### Proje Kurulumu
 
-Projeyi önce forklayın daha sonra klonlayın ve Intellij kullanarak projeyi açın. 
-Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projelerimizi belli klasör kalıplarında saklamak işimizi kolaylaştırmak adına iyi bir alışkanlıktır.
-Örnek bir Lokasyon: Workintech/Sprint_1/Etud.
-
-### Hedeflerimiz:
-
-Sınıf yazmaya doyduğunuz bir proje olması dileklerimle....
+### Hedefler:
 
 ### Lamp
 * org.example paketi altında model isminde bir paket oluşturunuz.
